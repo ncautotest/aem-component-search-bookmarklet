@@ -66,7 +66,7 @@
     window._dlg = new Coral.Dialog().set({
       id: ID_DLG,
       header: {
-        innerHTML: 'MAMCOM Components Lookup <span style=\'font-size:8pt;color:#ccc\'>(ESC to close)</span>&nbsp;<a class=\'coral-Link\' tabindex=\'-1\' target=\'_aemComps\' href=\'/libs/wcm/core/content/sites/components.html\'><coral-icon icon=\'alias\' size=\'XS\'></coral-icon></a>',
+        innerHTML: 'Components Lookup <span style=\'font-size:8pt;color:#ccc\'>(ESC to close)</span>&nbsp;<a class=\'coral-Link\' tabindex=\'-1\' target=\'_aemComps\' href=\'/libs/wcm/core/content/sites/components.html\'><coral-icon icon=\'alias\' size=\'XS\'></coral-icon></a>',
       },
       content: dialogContent,
       footer: {
